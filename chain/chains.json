@@ -16582,12 +16582,6 @@
     "urls": [
       {
         "name": "",
-        "priority": "2147483647",
-        "type": "RPC",
-        "url": "https://arb1.croswap.com/rpc"
-      },
-      {
-        "name": "",
         "priority": "2147483646",
         "type": "RPC",
         "url": "https://arb1.arbitrum.io/rpc"
@@ -16639,6 +16633,12 @@
         "priority": "2147483638",
         "type": "RPC",
         "url": "https://1rpc.io/arb"
+      },
+      {
+        "name": "",
+        "priority": "2147483637",
+        "type": "RPC",
+        "url": "https://arb1.croswap.com/rpc"
       },
       {
         "name": "Arbiscan",
