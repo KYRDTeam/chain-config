@@ -11795,25 +11795,25 @@
     "urls": [
       {
         "name": "",
-        "priority": "2147483648",
+        "priority": "2147483647",
         "type": "RPC",
         "url": "https://rpc.ankr.com/fantom_testnet"
       },
       {
         "name": "",
-        "priority": "2147483647",
+        "priority": "2147483646",
         "type": "RPC",
         "url": "https://fantom-testnet.public.blastapi.io"
       },
       {
         "name": "",
-        "priority": "2147483646",
+        "priority": "2147483645",
         "type": "RPC",
         "url": "https://fantom-testnet.publicnode.com"
       },
       {
         "name": "",
-        "priority": "2147483645",
+        "priority": "2147483644",
         "type": "RPC",
         "url": "https://rpc.testnet.fantom.network"
       },
@@ -16582,19 +16582,19 @@
     "urls": [
       {
         "name": "",
-        "priority": "2147483646",
+        "priority": "2147483647",
         "type": "RPC",
         "url": "https://arb1.arbitrum.io/rpc"
       },
       {
         "name": "",
-        "priority": "2147483645",
+        "priority": "2147483646",
         "type": "RPC",
         "url": "https://arbitrum.blockpi.network/v1/rpc/public"
       },
       {
         "name": "",
-        "priority": "2147483644",
+        "priority": "2147483645",
         "type": "RPC",
         "url": "https://rpc.ankr.com/arbitrum"
       },
