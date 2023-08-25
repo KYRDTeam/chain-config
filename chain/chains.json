@@ -11795,25 +11795,25 @@
     "urls": [
       {
         "name": "",
-        "priority": "2147483647",
+        "priority": "2147483648",
         "type": "RPC",
         "url": "https://rpc.ankr.com/fantom_testnet"
       },
       {
         "name": "",
-        "priority": "2147483646",
+        "priority": "2147483647",
         "type": "RPC",
         "url": "https://fantom-testnet.public.blastapi.io"
       },
       {
         "name": "",
-        "priority": "2147483645",
+        "priority": "2147483646",
         "type": "RPC",
         "url": "https://fantom-testnet.publicnode.com"
       },
       {
         "name": "",
-        "priority": "2147483644",
+        "priority": "2147483645",
         "type": "RPC",
         "url": "https://rpc.testnet.fantom.network"
       },
