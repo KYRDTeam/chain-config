@@ -1,0 +1,29 @@
+{
+  "time": {
+    "start": "11/20/2023 00:00:00 GMT+0700",
+    "end": "12/20/2023 00:00:00 GMT+0700"
+  },
+  "rule": "<ol><li>The participants compete for the highest<em><strong>Total P&amp;L</strong></em>by providing liquidity on the selected DEXes and chains:<ul><li><strong>DEXes:</strong><ul><li>UniSwap v3</li><li>KyberSwap Elastic</li><li>SushiSwap v3</li></ul></li><li><strong>Chains:</strong><ul><li>Ethereum</li><li>Polygon</li><li>Arbitrum</li><li>Optimism</li></ul></li></ul></li><li>Each participant will create a new wallet and send $1,000 USDT to that wallet at the beginning of the competition (Krystal will send $50 to each wallet as gas fee support)</li><li>All liquidity positions counted into the participants&rsquo; performance must be opened between 12:00PM Nov 20 - to 12:00PM Dec 19, UTC.</li><li>Participants can only open and close their LP positions in full. Adding liquidity or removing partial liquidity of an existing position are not allowed as it will reset the P&amp;L tracking to zero.</li><li>On Dec 19, 12:00PM UTC, Krystal will take a snapshot of all participants&rsquo; P&amp;L to identify the winners</li></ol><ul><li>The<em><strong>Total P&amp;L</strong></em>will be calculated as the sum of both open and closed positions. Example:<ul><li><p>This wallet has $7.34M P&amp;L for all open positions</p><p><img alt='Untitled' src='https://prod-files-secure.s3.us-west-2.amazonaws.com/c2995e97-a852-4d5e-8e37-f923f02747b4/f2af5f55-a5e8-4dfc-bd28-d4e88f925400/Untitled.png'></p></li><li><p>It also has -$21.99M P&amp;L for all closed positions</p><p><img alt='Untitled' src='https://prod-files-secure.s3.us-west-2.amazonaws.com/c2995e97-a852-4d5e-8e37-f923f02747b4/e96dd6be-011b-48c0-9aaa-28c0f15100fc/Untitled.png'></p></li><li><p>So, its<em><strong>Total P&amp;L</strong></em>is<strong>-$14.65M</strong></p></li></ul></li></ul>",
+  "competitor": [
+    {
+      "address": "0x1234",
+      "link": "https://google.com",
+      "avatar": "https://google.com"
+    },
+    {
+      "address": "0x1234",
+      "link": "https://google.com",
+      "avatar": "https://google.com"
+    },
+    {
+      "address": "0x1234",
+      "link": "https://google.com",
+      "avatar": "https://google.com"
+    },
+    {
+      "address": "0x1234",
+      "link": "https://google.com",
+      "avatar": "https://google.com"
+    }
+  ]
+}
